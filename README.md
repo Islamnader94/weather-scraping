@@ -46,6 +46,7 @@ For Python:
 python weather_scraping.py
 ```
 6. Sample screenshots of queries
-![San Francisco weather](docs/Screen Shot 2019-12-23 at 6.57.33 PM.png)
 
-![Dubai weather](docs/Screen Shot 2019-12-23 at 6.57.52 PM.png)
+![San Francisco weather](https://github.com/Islamnader94/weather-scraping/blob/master/docs/Screen%20Shot%202019-12-23%20at%206.57.33%20PM.png)
+
+![Dubai weather](https://github.com/Islamnader94/weather-scraping/blob/master/docs/Screen%20Shot%202019-12-23%20at%206.57.33%20PM.png)
