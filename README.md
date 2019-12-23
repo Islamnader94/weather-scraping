@@ -36,6 +36,7 @@ CREATE TABLE `weather` (
 git@github.com:Islamnader94/weather-scraping.git
 ```
 5. Go to the cloned folder and execute the script
+
 For Python 3:
 ```
 python3 weather_scraping.py
@@ -44,3 +45,7 @@ For Python:
 ```
 python weather_scraping.py
 ```
+6. Sample screenshots of queries
+![San Francisco weather](docs/Screen Shot 2019-12-23 at 6.57.33 PM.png)
+
+![Dubai weather](docs/Screen Shot 2019-12-23 at 6.57.52 PM.png)
